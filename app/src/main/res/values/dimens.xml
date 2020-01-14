@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_label_portrait">20sp</dimen>
+    <dimen name="btn_primary_size">20sp</dimen>
+    <dimen name="result_size">30sp</dimen>
+</resources>
